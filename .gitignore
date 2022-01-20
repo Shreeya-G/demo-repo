@@ -1,0 +1,4 @@
+dist
+src/plexflo/solar/*
+src/plexflo/client/*
+main.py

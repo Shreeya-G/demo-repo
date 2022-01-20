@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: plexflo
+Version: 0.0.1
+Summary: Python wrapper around Plexflo's apps, APIs, and algorithms that help energy companies build intelligence, apps, and dashboards to accelerate clean-tech adoption across all communities.
+Home-page: https://github.com/Plexflo/PyPlexflo
+Author: Plexflo
+Author-email: hello@plexflo.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Plexflo/PyPlexflo/issues
+Description: # Plexflo
+        
+        Open-source Python wrapper around Plexflo's apps, APIs, and algorithms that help researchers, engineers and energy companies build intelligence, apps, and dashboards to accelerate clean-tech adoption across all communities.
+        
+        ## Installation 
+        
+        ### Windows
+        
+        ### Unix 
+        
+        ## Example 
+        
+        
+        ## Contribution 
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
